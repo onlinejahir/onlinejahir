@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](./git image.png)
+![](./git image.png)
 ### 👋Hi, I am Jahirul Islam
 #### Software Developer
 I am studying and working in the software industry to be a professional Software Developer. I am really interested in and passionate to learn programming and software technology.
