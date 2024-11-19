@@ -1,7 +1,7 @@
 ![](./git_image.png)
 ### 👋Hi, I am Jahirul Islam
 #### Software Developer
-I am studying and working in the software industry to be a professional Software Developer. I am really interested in and passionate to learn programming and software technology.
+Passionate Software Developer specializing in C# and .NET technologies. Proficient in ASP.NET Core, Entity Framework Core, Web API development, and SQL-based database management. Adept at building robust, scalable applications using Visual Studio and modern development practices. Constantly learning and striving to create efficient and impactful solutions.
 
 Skills: C# / .NET / ASP.NET Core / EF Core / Web API / Visual Studio / SQL / DBMS/ HTML / CSS
 
